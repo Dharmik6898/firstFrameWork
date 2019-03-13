@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21000" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21000" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:26Z">
+      <class name="com.dharmik.TestNG">
+        <test-method status="PASS" signature="startSuit()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="startSuit" is-config="true" duration-ms="16" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startSuit -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="startTest" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="createDriver" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="actionCheck()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="actionCheck" duration-ms="8655" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actionCheck -->
+        <test-method status="PASS" signature="startClass()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="startClass" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:05Z" finished-at="2019-03-13T03:07:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startClass -->
+        <test-method status="PASS" signature="closePage()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="closePage" is-config="true" duration-ms="2363" started-at="2019-03-13T03:07:14Z" finished-at="2019-03-13T03:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePage -->
+        <test-method status="PASS" signature="alertCheck()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="alertCheck" duration-ms="7786" started-at="2019-03-13T03:07:16Z" finished-at="2019-03-13T03:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertCheck -->
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="createDriver" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:16Z" finished-at="2019-03-13T03:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="closePage()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="closePage" is-config="true" duration-ms="2182" started-at="2019-03-13T03:07:24Z" finished-at="2019-03-13T03:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePage -->
+        <test-method status="PASS" signature="classDone()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="classDone" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:26Z" finished-at="2019-03-13T03:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classDone -->
+        <test-method status="PASS" signature="testDone()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="testDone" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:26Z" finished-at="2019-03-13T03:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDone -->
+        <test-method status="PASS" signature="suitDone()[pri:0, instance:com.dharmik.TestNG@a38d7a3]" name="suitDone" is-config="true" duration-ms="0" started-at="2019-03-13T03:07:26Z" finished-at="2019-03-13T03:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suitDone -->
+      </class> <!-- com.dharmik.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.dharmik.TestNG">
+        <methods>
+          <include name="startTest"/>
+          <include name="createDriver"/>
+          <include name="startClass"/>
+          <include name="testDone"/>
+          <include name="closePage"/>
+          <include name="suitDone"/>
+          <include name="checkList"/>
+          <include name="classDone"/>
+          <include name="startSuit"/>
+        </methods>
+      </class> <!-- com.dharmik.TestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
